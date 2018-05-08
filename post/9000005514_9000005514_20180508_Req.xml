@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Contents><!-- RequestContent_FormType_8.xml -->
+	<Content>
+		<Version>1.0.0.0</Version><!--版本号-->
+		<OperCode>1</OperCode><!--1新增、2变更、2删除，点播内容注入，该值为0，表示只有新增的情况-->
+		<AssetId>1</AssetId>
+		<Type>7</Type><!--服务类型 7-精简编码 8-精简直播 9-精简模拟直播 12-互联网直播-->
+		<Sequence>1243334</Sequence><!--元数据的PropertyFileKey-->
+		<!--基本属性-->
+		<FormType>6</FormType><!--媒资类型(6剧集、7子集、8单片、10内容集)-->
+		<IsPrivate>true</IsPrivate><!--true：私有媒资  false：共享媒资-->
+		<Name>花千骨电影版剧集3</Name><!--媒资名称-->
+		<ShortName>花千骨电影版</ShortName><!--简称-->
+		<Keywords>花千骨,赵丽颖,霍建华,白子画,影视栏目内容节点,大CP专区,手机电影节,花千骨卫视版</Keywords><!--关键字，必填-->
+		<AssetType>600682</AssetType><!--内容形态-->
+		<Description>花千骨与霓漫天在仙剑首轮比赛先后胜出，两人一个凭真才实学获胜，一个凭旁门左道获胜，个中内幕只有朔风以及少数几人知晓。总决赛即将到来，朔风有意劝阻花千骨参加比赛称其绝非霓漫天对手，花千骨对其忠告置若罔闻。好不容易盼到成为白子画关门弟子的机会，终极一战纵使有性命之忧她也要奋力一搏。</Description><!--描述-->
+		<DisplayType>1000</DisplayType><!--主分类名称，必填-->
+		<Assist>1001</Assist><!--辅助分类，分类ID，多选，英文逗号隔开-->
+		<Country>600626</Country><!--国家及地区，指内容的制作地区-->
+		<CaptionLang>0</CaptionLang><!--字幕语言-->
+		<Lang>600654</Lang><!--语言，指内容中配音或旁白所采用的语言-->
+		<Platform>600674</Platform><!--播出平台-->
+		<SerialCount>30</SerialCount><!--总集数，剧集壳必填，子集可以为空-->
+		<SerialSequence></SerialSequence><!--第几集，剧集壳可以为空，子集必填-->
+		<Category>1</Category><!--内容类别 1-视频;2-音频;3-图像-->
+		<MediaLevel>2</MediaLevel><!--媒体文件清晰度 1-标清（576p）；2-高清（720p）；3-全高清（1080p）-->
+		<CDuration>8380</CDuration><!--时长-->
+		<SerialAssetId></SerialAssetId><!--单集所属剧集的内容ID，仅当Formtype为7时有效-->
+		<!--父媒资ID，子集必填，剧集壳时可以为空-->
+		<SerialTrailingSequence></SerialTrailingSequence><!--预告片在剧集中的序号，可以为空-->
+		<OnlineTime>2015-07-02 16:05:26</OnlineTime><!--上线时间 yyyy-MM-dd HH:mm:ss-->
+		<IsUrgency>0</IsUrgency><!--紧急,0普通、1热点、2紧急-->
+		<StrategyId>6</StrategyId><!--转码策略ID-->
+		<!--拓展属性-->
+		<PropertyFileLists>
+			<PropertyFile>
+				<PropertyFileKey>主演</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>所属片名</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>导演</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>上映时间</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>出品方</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>电影形式</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>播出年代</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>内容类型</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>编剧</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>外文名称</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>制式</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>时光评分</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>IMDB评分</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>版本</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>别称</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>豆瓣评分</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>国内首映时间</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>描述年代</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+			<PropertyFile>
+				<PropertyFileKey>评分</PropertyFileKey>
+				<PropertyFileValue>2016</PropertyFileValue>
+			</PropertyFile>
+		</PropertyFileLists>
+		<!--内容媒体文件-->
+		<MediaFileLists>
+		</MediaFileLists>
+		<!--内容图片文件-->
+		<DisPlayFileLists>
+			<DisPlayFile>
+				<DPFilePath>pictures/699021_H32_sc.jpg</DPFilePath>
+			</DisPlayFile>
+			<DisPlayFile>
+				<DPFilePath>pictures/699021_V34_sc.jpg</DPFilePath>
+			</DisPlayFile>
+			<DisPlayFile>
+				<DPFilePath>pictures/699021_V23_sc.jpg</DPFilePath>
+			</DisPlayFile>
+			<DisPlayFile>
+				<DPFilePath>pictures/699021_H53_sc.jpg</DPFilePath>
+			</DisPlayFile>
+			<DisPlayFile>
+				<DPFilePath>pictures/699021_H43_sc.jpg</DPFilePath>
+			</DisPlayFile>
+			<DisPlayFile>
+				<DPFilePath>pictures/699021_S11_sc.jpg</DPFilePath>
+			</DisPlayFile>
+		</DisPlayFileLists>
+		<!--版权信息-->
+		<CopyRight>
+			<!-- 如果版权存在只填写版权id即可 -->
+			<CopyrightId></CopyrightId><!-- 版权ID    13506470 -->
+			<CPID>13506470</CPID><!-- cpid -->
+			<!--下面是版权必填选项-->
+			<Name>test613</Name><!--版权名称-->
+			<BeginDate>2016-06-14 22:11:17</BeginDate><!--版权开始日期 yyyy-MM-dd HH:mm:ss-->
+			<EndDate>2016-09-14 02:22:11</EndDate><!--版权结束日期 yyyy-MM-dd HH:mm:ss-->
+			<Area>6</Area> <!-- 白名单地域,版权地域范围: 内地 ：1,香港:2,澳门:3,台湾:4,海外:5,不限:6, -->
+			<!--黑名单地域：内地 ：1,香港:2,澳门:3,台湾:4,海外:5,不限:6,
+			内蒙古:07,辽宁:08,吉林:09,黑龙江:10,江苏:11,浙江:12,安徽:13,福建:14,江西:15,山东:16,
+			河南:17,湖北:18,湖南:19,广东:20,广西:21,海南:22,四川:23,贵州:24,云南:25,西藏:26,陕西:27,甘肃:28,青海:29,
+			宁夏:30,新疆:31,重庆:32,上海:33,天津:34,北京:35,河北:36,美国:37,英国:38,德国:39,日本:40,韩国:41,法国:42,加拿大:43,
+			澳大利亚:44,波兰:45,泰国:46,山西:47
+			-->
+			<BlackArea>1,2</BlackArea><!--黑名单地域， 可以为空 -->
+			<Integrity>1</Integrity><!-- 版权完整度 -->
+			<Scarcity>2</Scarcity><!-- 版权稀缺性 -->
+			<Way>2</Way><!-- 版权使用方式限制  1：仅在线播放  2：仅下载  3：不限   -->
+			<Publish>1</Publish><!-- 是否首发，  枚举值：0-是；1-否-->
+			<Support>2</Support><!--媒体支持 1是主办联合新闻发布会，2是冠名咪咕视讯超前点映，3是营销实物支撑，4进行片场探班，5咪咕视讯LOGO媒体宣传，可以为空-->
+			<Scope>1</Scope><!-- 版权授权范围 -->
+			<Output>0</Output><!-- 版权是否可输出 ，枚举值：0-是；1-否-->
+			<Chain>版权链afsdf</Chain><!--版权链，字符串，可以为空-->
+			<FreeType>1</FreeType><!--资费类型 1:免费,2:收费, 3:仅支持按次,4: 不限-->
+			<UDID>1121</UDID><!--对方系统CPID的唯一标识，一般为版权的主键，可以为空-->
+			<Drm>0</Drm> <!-- 是否支持DRM 0:支持  1：不支持 -->
+			<AuthorizationWay>1</AuthorizationWay><!--授权方式  1-单片授权；2-集体授权，3-频道授权-->
+			<Terminal>2,3</Terminal>  <!-- 版权终端  1是全平台，2是手机终端，3是PC，4是iptv，5是平板，6是数字有线网，7是互联网电视-->
+			<MiguPublish>1</MiguPublish><!--咪咕发行  1.非独家非首发 2.独家或首发-->
+			<BcLicense>1</BcLicense><!-- 播出许可  1: 非院线非电视台 2: 院线或电视台  -->
+			<Influence>1</Influence><!-- 受众影响  1:非热播   2：热播 -->
+			<OriPublish>1</OriPublish><!-- 原创发行 ，枚举值：1-工作室直签；2-代理发行 3-非原创发行 -->
+			<Discription>测试批量1122222</Discription><!-- 描述 ，可以为空-->
+			<File><!-- 版权文件 -->
+				<Path>pictures/699021_H32_sc.jpg</Path><!-- 版权文件路径 -->
+				<Path>pictures/699021_H43_sc.jpg</Path>
+			</File>
+		</CopyRight>
+	</Content>
+</Contents>
